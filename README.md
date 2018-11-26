@@ -17,4 +17,4 @@ $configs = array(
     'Drum Rom' =>       array( 'bankselect' => '512',       'sounds' => '8' ),
 );
 
-Feel free for other devices.
+Feel free to edit for other devices.
