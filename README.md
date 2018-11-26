@@ -6,6 +6,7 @@ This Php script generated a patch file (browser) for Cubase midi devices.
 This script is setting for the Technics WSA-1 Synthesiser:
 
 $configs = array(
+
     // Banks
     'User1' =>          array( 'bankselect' => '128',       'sounds' => '128' ),
     'User2' =>          array( 'bankselect' => '144',       'sounds' => '128' ),
